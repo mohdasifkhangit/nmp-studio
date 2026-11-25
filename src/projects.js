@@ -6,7 +6,7 @@ export const site = {
   name: "NMP",
   full: "No Music Production",
   founder: "Asif Khan",
-  email: "collab.nmp@gmail.com", // <-- PUT YOUR EMAIL HERE
+  email: "collabnmp@gmail.com", // <-- PUT YOUR EMAIL HERE
 };
 
 // Videos go in /public/videos/. Missing file = placeholder stays.
